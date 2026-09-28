@@ -1,0 +1,6 @@
+*.CATPart filter=lfs diff=lfs merge=lfs -text
+*.CATProduct filter=lfs diff=lfs merge=lfs -text
+*.CATDrawing filter=lfs diff=lfs merge=lfs -text
+*.CATAnalysis filter=lfs diff=lfs merge=lfs -text
+*.stp filter=lfs diff=lfs merge=lfs -text
+*.step filter=lfs diff=lfs merge=lfs -text
