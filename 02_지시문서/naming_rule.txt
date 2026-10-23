@@ -1,0 +1,13 @@
+| 감속기 부품 | 적용 제품 | 변경할 이름 |
+|---|---|---|
+| B01 주베어링 | MISUMI C-E6709 | KAFKA_00KMS_02Output Cover_MISUMI C-E6709 Simplified |
+| B02 내부 지지 베어링 | NSK 6801 | KAFKA_00KMS_02Output Transmission_NSK 6801 Simplified |
+| B03 편심 베어링 | FAG 3803-B-2Z-TVH | KAFKA_00KMS_02Eccentric Drive_FAG 3803-B-2Z-TVH Simplified |
+| B04 입력측 베어링 | NSK 6901 | KAFKA_00KMS_02Input Cover_NSK 6901 Simplified |
+| O02 출력핀 8개 | MISUMI SFJ4-12 | KAFKA_00KMS_02Output Transmission_MISUMI SFJ4-12_01부터 _08 |
+| O03 출력 부시 8개 | MISUMI JBK6-4-9.4 | KAFKA_00KMS_02Output Transmission_MISUMI JBK6-4-9.4_01부터 _08 |
+| S01 출력 오일실 | TIMKEN 45X55X4-R2LS32-S | KAFKA_00KMS_02Output Cover_TIMKEN 45X55X4-R2LS32-S |
+| S02 입력 오일실 | RS PRO 226-3701 | KAFKA_00KMS_02Input Cover_RS PRO 226-3701 |
+| 입력측 볼트 10개 | MISUMI SCB3-10 | KAFKA_00KMS_02Input Cover_MISUMI SCB3-10_01부터 _10 |
+| 출력측 볼트 10개 | MISUMI SCB3-10 | KAFKA_00KMS_02Output Cover_MISUMI SCB3-10_01부터 _10 |
+_00BSR070 Reducer
